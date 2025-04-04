@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992999764800",
+    "project_id": "bodyforge-a1576",
+    "storage_bucket": "bodyforge-a1576.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992999764800:android:5f8712c348f1602012c0a5",
+        "android_client_info": {
+          "package_name": "com.example.bodyforge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSJvq5fGlfiR-eTD-RaItotjtTx6W1Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
