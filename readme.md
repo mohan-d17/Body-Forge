@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-# Body-Forge <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/dumbbell.svg" width="32" height="32" alt="FitForge Logo">
+# Body-Forge <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/dumbbell.svg" width="32" height="32" alt="Body-Forge Logo">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -14,7 +14,7 @@ _Your Personal AI-Powered Fitness Companion_
 
 ## 🌟 Overview
 
-FitForge revolutionizes your fitness journey by combining cutting-edge AI with personalized workout planning. Whether you're a beginner or a seasoned athlete, our platform adapts to your needs, helping you forge your path to better health.
+Body-Forge revolutionizes your fitness journey by combining cutting-edge AI with personalized workout planning. Whether you're a beginner or a seasoned athlete, our platform adapts to your needs, helping you forge your path to better health.
 
 ## ✨ Features
 
